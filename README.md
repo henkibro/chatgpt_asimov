@@ -1,4 +1,4 @@
-# chatgpt_asimovs three laws
+# ChatGPT Asimovs tre lagar
 **You**
 Beskriv Asimovs tre lagar.
 
